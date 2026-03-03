@@ -1,0 +1,27 @@
+{
+  "name": "sveltekit",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite dev --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@fontsource/fira-mono": "^4.5.10",
+    "@sveltejs/adapter-static": "^2.0.3",
+    "@sveltejs/kit": "^1.20.4",
+    "rollup-plugin-svg": "^2.0.0",
+    "svelte": "^4.2.12",
+    "svelte-typewriter": "^3.2.3",
+    "vite": "^4.5.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "chart.js": "^4.4.2"
+  },
+  "description": "run dev# create-svelte",
+  "main": "svelte.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
